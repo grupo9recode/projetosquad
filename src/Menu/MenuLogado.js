@@ -12,7 +12,7 @@ function Menu() {
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav me-auto mb-2 mb-lg-0 ml-auto">
                         <li className="nav-item m-auto">
-                            <a className="nav-link " aria-current="page" href="/" to="/">Home</a>
+                            <a className="nav-link " aria-current="page" href="/home" to="/home">Home</a>
                         </li>
                         <li className="nav-item m-auto">
                             <a className="nav-link " href="/produtos" to="/produtos">Produtos</a>

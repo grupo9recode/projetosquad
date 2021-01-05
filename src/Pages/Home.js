@@ -3,7 +3,7 @@ import '../CSS/Home.css';
 
 function Home(){
     return(
-        <div className="">
+        <div className="corpo">
             <Menu />
             <div className="container">
                 <div className="d-flex mt-5">
@@ -11,6 +11,9 @@ function Home(){
                         <img src={require('../Img/Serviço.png').default} alt="..." />
                     </div>
                 </div>           
+            </div>
+            <div className="teste">
+                
             </div>
         </div>
     );

@@ -19,8 +19,8 @@ function Login(){
                     </div>
                     <div className="mb-3 d-flex">
                         <div>
-                            <a href="#" className="nav-link">Esqueci minha senha</a>
-                            <a href="#" className="nav-link">Cadastre-se</a>
+                            <a href="/" className="nav-link">Esqueci minha senha</a>
+                            <a href="/" className="nav-link">Cadastre-se</a>
                         </div>
                         <div className="ml-auto mt-4">
                             <button type="submit" className="btn btn-primary">Login</button>
